@@ -1,1 +1,1 @@
-# git-example
+# background generator
